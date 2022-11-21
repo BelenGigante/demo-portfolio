@@ -5,6 +5,7 @@
 body {
   font-family: Arial;
   margin: 0;
+
 }
 
 header {
@@ -29,11 +30,15 @@ nav a {
 main {
   display: flex;
   flex-wrap: wrap;
+ 
+}
+.secbody{
+  background-color: #c6d2bc;
 }
 
 aside {
   flex: 1;
-  background-color: #b9c6ae;
+  background-color: #c6d2bc;
   padding: 20px;
 }
 
