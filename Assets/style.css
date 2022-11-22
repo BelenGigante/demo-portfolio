@@ -1,0 +1,9 @@
+body{
+  background-color: whitesmoke;
+}
+
+.divstyle{
+  max-width: 1140px;
+  margin: 0 auto;
+  background-color: rgb(164, 188, 174);
+}
