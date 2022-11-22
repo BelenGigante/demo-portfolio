@@ -1,11 +1,11 @@
 body{
-  background-color: whitesmoke;
+  background-color:  rgb(236, 239, 238);
 }
 
 .divstyle{
   max-width: 1140px;
   margin: 0 auto;
-  background-color: rgb(164, 188, 174);
+  background-color: rgb(206, 209, 207);
 }
 
 .divstyle > header {
@@ -20,4 +20,42 @@ body{
 nav a{
   color: white;
   font-size: 20px;
+}
+section{
+  padding: 20px;
+  font-size: 20px;
+  line-height: 48px;
+  color: white;
+
+} 
+ header{
+  font-size: 30px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: left;
+  flex-shrink: 0;
+  flex-basis: 150px;
+}
+
+article {
+  justify-content: center;
+}
+#contactme{
+  font-size: 30px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: left;
+  flex-shrink: 0;
+  flex-basis: 150px;
+  
+}
+.navend{
+  display: flex;
+  justify-content: right;
+}
+.navend a{
+  
+  padding: 20px;
 }
