@@ -28,6 +28,7 @@ nav a{
   color: white;
   text-decoration: none;
   font-size: 20px;
+  line-height: 150%;
 }
 .mypic{
   display: flex;
@@ -58,6 +59,9 @@ article img{
   width: 100%;
 }
 .feature {
+  width: 100%;
+}
+.feature img{
   width: 100%;
 }
 /*mi codigo*/
@@ -96,7 +100,7 @@ a{color: white;
   justify-content: left;
   flex-shrink: 0;
   flex-basis: 150px;
-}
+}*/
 
 
 
@@ -116,5 +120,10 @@ nav a:first-of-type{
   flex-direction: column;
   align-items: center;
 }
-
-}*/
+#work{
+  flex-direction: column;
+}
+#work article {
+  width: 100%;
+}
+}
