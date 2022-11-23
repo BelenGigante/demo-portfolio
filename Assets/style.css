@@ -1,8 +1,14 @@
 body{
   background-color:  rgb(236, 239, 238);
+  font-size: 24px;
   line-height: 150%;
 }
-
+h1{
+  font-size: 48px;
+}
+h2{
+  font-size: 40px;
+}
 .divstyle{
   max-width: 1140px;
   margin: 0 auto;
@@ -22,6 +28,16 @@ nav a{
   color: white;
   text-decoration: none;
   font-size: 20px;
+}
+.mypic{
+  display: flex;
+  align-items: flex-start;
+  
+}
+.mypic img{
+  margin-right: 16px;
+  margin-bottom: 16px;
+  width: 200px;
 }
 section{
   padding: 20px;
@@ -44,36 +60,12 @@ article img{
 .feature {
   width: 100%;
 }
-/*.mypic{
-  display: flex;
-  align-items: flex-start;
-  
-}
-.mypic img{
-  margin-right: 16px;
-  margin-bottom: 16px;
-  width: 200px;
-}
-.seo{
-  display: flex;
-  align-items: flex-start;
-}
-h3{
+/*mi codigo*/
+/*h3{
   text-align: center;
-}
-/*a{color: white;}
-
- header{
-  font-size: 30px;
-  padding: 20px;
-  color: white;
-  display: flex;
-  justify-content: left;
-  flex-shrink: 0;
-  flex-basis: 150px;
-}
-
-
+}*/
+a{color: white;
+  text-align: center;}
 #contactme{
   font-size: 30px;
   padding: 20px;
@@ -92,6 +84,22 @@ h3{
   
   padding: 20px;
 }
+/*
+
+
+
+ header{
+  font-size: 30px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: left;
+  flex-shrink: 0;
+  flex-basis: 150px;
+}
+
+
+
 @media screen and (max-width: 768px){
 body,p{
   font-size: 16px;
