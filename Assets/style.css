@@ -21,7 +21,7 @@ body{
 h3{
   text-align: center;
 }
-
+a{color: white;}
 .divstyle > header {
   font-size: 40px;
   padding: 20px;
