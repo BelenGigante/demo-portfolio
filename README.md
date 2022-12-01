@@ -5,4 +5,7 @@
  The porfolio has navigation links to sections of the page, as well as external links to deployed projects. 
  It should also be responsive to various screens and devices.
 
-[portfolio](https://github.com/BelenGigante/demo-portfolio.git)
+[Belen's portfolio](https://github.com/BelenGigante/demo-portfolio.git)
+
+# Visuals
+![](./Assets/images/portfolio.png)
