@@ -9,3 +9,4 @@
 [Belen's portfolio](https://github.com/BelenGigante/demo-portfolio.git)
 
 # Visuals
+![](./Assets/images/portfolio.png)
