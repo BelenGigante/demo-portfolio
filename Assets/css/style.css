@@ -55,19 +55,16 @@ article{
   width: 50%;
   padding:20px;
 }
-article img{
-  width: 100%;
+section img{
+  width: 90%;
 }
 .feature {
   width: 100%;
 }
 .feature img{
-  width: 100%;
+  width: 90%;
 }
-/*mi codigo*/
-/*h3{
-  text-align: center;
-}*/
+
 a{color: white;
   text-align: center;}
 #contactme{
@@ -88,19 +85,7 @@ a{color: white;
   
   padding: 20px;
 }
-/*
 
-
-
- header{
-  font-size: 30px;
-  padding: 20px;
-  color: white;
-  display: flex;
-  justify-content: left;
-  flex-shrink: 0;
-  flex-basis: 150px;
-}*/
 
 
 
@@ -115,6 +100,7 @@ header{
 }
 nav a:first-of-type{
   margin-left: 0;
+  line-height: 60px;
 }
 .divstyle{
   flex-direction: column;
@@ -126,4 +112,10 @@ nav a:first-of-type{
 #work article {
   width: 100%;
 }
+.navend a{
+  
+  padding: 3%;
+  font-size: 100%;
+}
+
 }
